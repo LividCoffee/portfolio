@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+	<channel>
+		<title>Подкасти TV-7</title>
+		<description>Lorem ipsum</description>
+		<language>uk-ua</language>
+		<link>http://tv7.pp.ua</link>
+		<atom:link rel="self" type="application/rss+xml" href="https://tv7.pp.ua/podcast.xml"/>
+		<itunes:author>TV-7</itunes:author>
+		<itunes:image href="https://tv7.pp.ua/cover1.jpg"/>
+		<itunes:category text="News &amp; Politics"/>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:owner>
+			<itunes:email>danil.evmenchuk@gmail.com</itunes:email>
+			<itunes:name>TV-7</itunes:name>
+		</itunes:owner>
+		<!-- Эпизоды -->
+		<item>
+			<title>Від сходу до заходу. Данило Судинин</title>
+			<description>
+				Юхууу! Вперше в історії телебачення Маріуполя ми запускаємо подкаст! &#127911;&#127897;️&#129395; Проєкт «Від Сходу до Заходу» розкриватиме державотворчі, соціальні, історичні та культурні теми, пов’язані з Україною. А також розвінчуватиме стереотипи щодо історії та сучасності величезних регіонів - від Маріуполя до Львова. Наша ведуча Вікторія Гребенюк буде запрошувати до розмови цікавих та компетентних гостей. Щоб разом з вами дізнаватись більше, позбуватись зайвого та трішки рефлексувати &#128521; Чекаємо вас у ламповій атмосфері подкасту «Від сходу до заходу» щонеділі о 20:00 на нашому ютюб-каналі.
+			</description>
+			<enclosure length="26267648" type="audio/mpeg" url="https://tv7.pp.ua/danylo-sudynyn.mp3"/>
+			<pubDate>26 Sep 2023 08:00:00 +0300</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:subtitle>Проєкт «Від Сходу до Заходу» розкриватиме державотворчі, соціальні, історичні та культурні теми, пов’язані з Україною.</itunes:subtitle>
+			<itunes:author>TV-7</itunes:author>
+			<itunes:summary>Юхууу! Вперше в історії телебачення Маріуполя ми запускаємо подкаст! &#127911;&#127897;️&#129395; Проєкт «Від Сходу до Заходу» розкриватиме державотворчі, соціальні, історичні та культурні теми, пов’язані з Україною. А також розвінчуватиме стереотипи щодо історії та сучасності величезних регіонів - від Маріуполя до Львова. Наша ведуча Вікторія Гребенюк буде запрошувати до розмови цікавих та компетентних гостей. Щоб разом з вами дізнаватись більше, позбуватись зайвого та трішки рефлексувати &#128521; Чекаємо вас у ламповій атмосфері подкасту «Від сходу до заходу» щонеділі о 20:00 на нашому ютюб-каналі.</itunes:summary>
+			<itunes:keywords>Від сходу до заходу, Данило Судинин, Мариуполь</itunes:keywords>
+			<author>danil.evmenchuk@gmail.com (TV-7)</author>
+			<link>http://tv7.pp.ua/ssilka_na_epizod</link>
+			<guid>http://tv7.pp.ua/ssilka_na_epizod</guid>
+		</item>
+	</channel>
+</rss>
